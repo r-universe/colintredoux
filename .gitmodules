@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "r4lineups"]
+	path = r4lineups
+	url = https://github.com/cran/r4lineups
+	shallow = true
+	registered = true
